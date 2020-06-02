@@ -1,4 +1,4 @@
-
+[![Build Status](https://san2debug.visualstudio.com/CloudSkillChallege/_apis/build/status/santhakumar11.mslearn-tailspin-spacegame-web?branchName=master)](https://san2debug.visualstudio.com/CloudSkillChallege/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
